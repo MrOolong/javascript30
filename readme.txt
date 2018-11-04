@@ -1,0 +1,1 @@
+Goal: To complete Wes Bos' Vanilla Javascript 30 course
